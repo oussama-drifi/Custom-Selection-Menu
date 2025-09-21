@@ -37,7 +37,7 @@ options.forEach(option => {
         // update the hidden input value
         input.value = displayedOption.textContent;
         // make the state active
-        fieledContainer.style.borderColor = "rgb(115, 0, 255)";
+        fieledContainer.style.borderColor = "rgba(119, 14, 247, 1)";
     });
 });
 // close the menu when clicking outside the selection box
